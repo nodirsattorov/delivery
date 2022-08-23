@@ -1,0 +1,2 @@
+[22-May-2022 19:54:56 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/n86342/public_html/dostavkabot.nodirsattorov.uz/vendor/composer/platform_check.php on line 24
+[23-May-2022 00:37:20 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/n86342/public_html/test.nodirsattorov.uz/vendor/composer/platform_check.php on line 24

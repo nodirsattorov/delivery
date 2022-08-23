@@ -1,0 +1,2 @@
+[07-Apr-2022 05:56:22 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/t92074/public_html/izumrudniybot.skybox.uz/vendor/composer/platform_check.php on line 24
+[07-Apr-2022 05:56:46 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/t92074/public_html/izumrudniybot.skybox.uz/vendor/composer/platform_check.php on line 24
